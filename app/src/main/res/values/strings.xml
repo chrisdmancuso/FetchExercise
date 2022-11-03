@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FetchExercise</string>
+    <string name="list_id">List Id: </string>
+    <string name="name">Name: </string>
+    <string name="lid_all">ALL LIST ID</string>
+    <string name="lid_1">LIST ID 1</string>
+    <string name="lid_2">LIST ID 2</string>
+    <string name="lid_3">LIST ID 3</string>
+    <string name="lid_4">LIST ID 4</string>
+
+</resources>
